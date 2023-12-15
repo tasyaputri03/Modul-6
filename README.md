@@ -11,7 +11,7 @@ Dataset Project ini menggunakan dataset rock, paper, scissors dengan jumlah data
 
 #Local Development
 
-Tampilan Awal
-
+Tampilan Upload File
+<img width="1792" alt="Jepretan Layar 2023-12-15 pukul 18 27 12" src="https://github.com/tasyaputri03/Modul-6/assets/103129679/2201d1d3-9125-4fa4-8d81-26ea75b65240">
 
 Tampilan Result
